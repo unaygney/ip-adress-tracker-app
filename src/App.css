@@ -134,21 +134,19 @@ img {
   clear: both;
 }
 
-
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
   -webkit-appearance: none;
-  
 }
 input[type="number"] {
   -moz-appearance: textfield; /* Firefox'ta da gizlemek için */
 }
 
-
 html,
 body {
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 body {
@@ -159,8 +157,9 @@ body {
   background-image: url(./assets/pattern-bg-desktop.png);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30vh;
+  height: 40vh;
   position: relative;
+  z-index: 10000;
 }
 
 .header .input-container {
@@ -169,7 +168,8 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 2rem;
+  padding-top: 2rem;
+  
 }
 
 .input-container h1 {
@@ -274,9 +274,49 @@ body {
   text-align: center;
 }
 
-.map{
-  height: 70vh;
-  width: 100%;
+.main {
+  height: 60vh;
+  width: 100%;  
+position: relative;
+ 
+}
+
+.main div{
+  z-index: -1;
 }
 
 
+ 
+
+@media (max-width : 478px) {
+
+  .form {
+    width: 327px;
+  }
+
+  input , input::placeholder{
+font-size: 14px;
+
+  }
+
+  .header .info{
+    width: 327px;
+height: 294px;
+bottom: -80%;
+  }
+
+  .info ul{
+    flex-direction: column;
+    
+  }
+
+
+
+  .info ul li h3{
+    font-size: 10px;
+  }
+
+  .info ul li p {
+    font-size: 20px;
+  }
+}
