@@ -13,8 +13,8 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/ip-adress-tracjer-app-with-react-Co-G5QDkRT)
+- Live Site URL: [Live site URL](https://delicate-sorbet-450bd6.netlify.app/)
 
 
 ### Built with
