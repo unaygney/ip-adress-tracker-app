@@ -1,8 +1,38 @@
-# React + Vite
+# Frontend Mentor - IP address tracker solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Screenshot And Demo
+![Demo GIF](path-to-your-demo-gif.gif)
+![Desktop](./screenshot/dektop.png)
+![Mobile](./screenshot/mobile.png)
+
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
+
+
+
+
+
+## Author
+
+- Website - [Guney Unay](https://www.guneyunay.com)
+- Frontend Mentor - [@unaygney](https://www.frontendmentor.io/profile/unaygney)
+
