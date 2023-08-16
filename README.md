@@ -5,7 +5,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 
 ### Screenshot And Demo
-![Demo GIF](path-to-your-demo-gif.gif)
+![Demo GIF](./screenshot/demo.gif)
 ![Desktop](./screenshot/dektop.png)
 ![Mobile](./screenshot/mobile.png)
 
